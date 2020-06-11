@@ -1,0 +1,2 @@
+C:\Users\aramv\Desktop\Synthesizer c++\Synthesizer\Debug\Synthesizer.exe
+C:\Users\aramv\Desktop\Synthesizer c++\Synthesizer\Debug\Synthesizer.pdb
