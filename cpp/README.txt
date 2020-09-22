@@ -5,7 +5,7 @@ only a few minor flaws have been fixed and the .txt files are created in vim.
 
 You can use this code for whatever you want as long as you give OLC credit somewhere.
 
-This program featured Sine waves, Oscillators, envelopes and all the beautiful things you can find in synthesizers.
+This program features Sine waves, Oscillators, envelopes and all the beautiful things you can find in synthesizers.
 
 
 Many thanks,
