@@ -1,13 +1,12 @@
-Nederlands:
-Dit is een synthesizer gemaakt in cpp
+This is a synthesizer made in c ++
 
-Ik heb deze gemaakt met behulp van de tutorial series van OLC en het boek: "Een rondleiding door c++" Van Bjarne Stroustrup. Het is voor het grootste gedeelte gemaakt in visual studio code  
-maar een paar schoonheids foutjes zijn opgelost en de .txt files zijn gemaakt in vim.
+I made this using the tutorial series from OLC and the book "A tour of c ++" by Bjarne Stroustrup. It is mostly made in visual studio code
+only a few minor flaws have been fixed and the .txt files are created in vim.
 
-Deze code mag je gebruiken voor wat je maar wilt als je OLC tenminste ergens credit geeft.
+You can use this code for whatever you want as long as you give OLC credit somewhere.
 
-Dit programma bezat Sine waves, Oscillators, envelopes en alle mooie dingetjes die je kan vinden in synthesizers.
+This program featured Sine waves, Oscillators, envelopes and all the beautiful things you can find in synthesizers.
 
 
-Met groot dank,
-AramBP
+Many thanks,
+~ Aram Brouwer 22/09/2020
